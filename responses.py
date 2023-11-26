@@ -4,6 +4,7 @@ def handle_respons(id, message) -> str:
     if p_message == "hello":
         return "hi"
     
+    
     if p_message == "help":
         return ""
     
